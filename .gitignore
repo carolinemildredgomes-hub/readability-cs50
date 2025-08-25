@@ -1,0 +1,10 @@
+# compiled outputs
+readability
+*.o
+*.out
+
+# OS files
+.DS_Store
+
+# editor backup
+*~
